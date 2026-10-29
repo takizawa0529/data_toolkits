@@ -1,0 +1,3 @@
+load_data:
+  file_path: ./data/processed/load_data.parquet
+  target_table: DATA_TABLE/

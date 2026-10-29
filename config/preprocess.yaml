@@ -1,0 +1,9 @@
+preprocessed_data_name:
+  read_file_path:
+    data1:
+      ./data/raw/data1.parquet
+    data2:
+      ./data/raw/data2.parquet
+
+  processed_file_path:
+    ./data/processed/preprocessed_data.parquet

@@ -1,0 +1,4 @@
+REGION = "ap-northeast-1"
+WORK_GROUP = ""
+S3_STAGING_DIR = ""
+SLEEP_TIME_SEC = 5
